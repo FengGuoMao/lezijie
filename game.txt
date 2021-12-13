@@ -1,2 +1,3 @@
 game.txt had been create 
+game.txt 2.0 had been changed
 
